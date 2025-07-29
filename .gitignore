@@ -1,0 +1,4 @@
+# the .gitignore file specifies the names of other files 
+# that we don't want to track in version control
+
+__pycache__

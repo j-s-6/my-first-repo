@@ -1,16 +1,10 @@
-# my-first-repo
 
 
-Added using GitHub online. 
+## Usage
 
-# My First Repo!
+Play a game of RPS:
 
-This is the README.md file. It uses the markdown language.
+```sh
+python app/rps.py
+```
 
-Here is a list:
-
-  + Item 1
-  + Item 2
-  + Item 3
-
-For more information about Markdown syntax, see the [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/).
