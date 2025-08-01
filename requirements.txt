@@ -1,7 +1,8 @@
 # this is the requirements.txt file
 
 # packages used for the app:
-# ...
+flask
+
 
 
 # packages used for testing:

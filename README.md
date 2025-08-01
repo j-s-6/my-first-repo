@@ -20,6 +20,7 @@ pip install -r requirements.txt
 
 ## Usage
 
+### Command-line app
 Play a game of rock, paper scissors:
 
 ```sh
@@ -38,3 +39,12 @@ Run the tests:
 # find all the tests and run them:
 pytest
 ```
+
+## Web App
+
+# Run the web app:
+```sh
+FLASK_APP=web_app flask run
+```
+
+# Visit in the browser
